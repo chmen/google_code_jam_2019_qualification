@@ -7,5 +7,14 @@ Scores for the tasks:
 3. Cryptopangrams(prime) 0 points from 25 possible. It's pass with test input, but I get Runtime Error, on google server. 
 
 Run localy:
-Call it with 
+Call it with in your terminal
 ruby foregon.rb < input.txt 
+ruby you_can_go.rb < input.txt
+ruby prime.rb < input.txt
+
+Tests:
+I am great BDD fan. If you like to run tests:
+* Comment line read_from_input
+* run rspec
+
+
